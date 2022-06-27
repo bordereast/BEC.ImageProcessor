@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEC.ImageProcessor", "BEC.ImageProcessor\BEC.ImageProcessor.csproj", "{0399C156-891E-43F5-A535-63E5FC856C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0399C156-891E-43F5-A535-63E5FC856C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0399C156-891E-43F5-A535-63E5FC856C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0399C156-891E-43F5-A535-63E5FC856C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0399C156-891E-43F5-A535-63E5FC856C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374892A3-5F5A-4FF1-BC9E-6344C81EFC9F}
+	EndGlobalSection
+EndGlobal

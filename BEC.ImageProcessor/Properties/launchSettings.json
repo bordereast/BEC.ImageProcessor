@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BEC.ImageProcessor": {
+        "commandName": "Project",
+        "commandLineArgs": "-d \"C:\\Users\\agrot\\Pictures\\artpress\\resdesign\\test\" -f webp"
+    }
+  }
+}
